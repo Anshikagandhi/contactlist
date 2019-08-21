@@ -1,0 +1,34 @@
+body{
+   margin: 0;
+   font-family: sans-serif;
+   
+}
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+#list  {
+    
+    text-align: center;
+    font-size: 25px;
+    display: inline;
+    color: white;
+    font-family: cursive;
+
+    
+}
+#box:hover{
+    
+    color:black;
+}
+#delete-button a{
+    
+    
+    color: whitesmoke;
+    background-color: rgb(153, 49, 131);
+    
+}
+input{
+    height: 50px;
+}
